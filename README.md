@@ -6,7 +6,7 @@ Build docker container for [webrisk](https://github.com/google/webrisk), proxy f
 [UPX](https://upx.github.io/), UNIX make, and Docker (CE) are required to build. 
 
 ```
-sudo docker build . -t gugu/sbserver
+sudo docker build . -t gugu/webrisk
 ```
 
 ## Running
